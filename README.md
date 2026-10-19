@@ -29,7 +29,7 @@ The proposed model is a 1-D **attention-residual CNN** (a learned feature-attent
 | SimpleHome XCS7-1002 Camera | 88.46 % |
 | SimpleHome XCS7-1003 Camera | 88.18 % |
 
-Every number above is produced by the scripts in `src/` — see `results/<model>/final_metrics.csv` and `per_fold_results.csv`.
+Accuracy is pooled over all test samples (the unweighted mean of the 9 per-fold accuracies is 83.12 %). Every number above is produced by the scripts in `src/` — see `results/<model>/final_metrics.csv` and `per_fold_results.csv`.
 
 ![CNN accuracy per fold](results/results_cnn/visualizations/1_accuracy_per_fold.png)
 
