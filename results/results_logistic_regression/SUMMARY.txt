@@ -1,0 +1,24 @@
+LOGISTIC REGRESSION - TRAINING SUMMARY
+================================================================================
+
+Date: 2026-02-28 12:42:04
+Number of folds: 9
+Total samples: 6,331,884
+Total training time: 608.00s (10.13 minutes)
+
+FINAL METRICS:
+----------------------------------------
+Accuracy:  0.7396 (73.96%)
+Precision: 0.7474 (74.74%)
+Recall:    0.7532 (75.32%)
+F1-Score:  0.7360 (73.60%)
+
+VISUALIZATIONS CREATED:
+----------------------------------------
+1. Accuracy & Loss per fold
+2. Confusion Matrix
+3. Classification Report
+4. ROC Curves
+5. Calibration Curves
+6. Overall Metrics
+7. Class Performance Heatmap

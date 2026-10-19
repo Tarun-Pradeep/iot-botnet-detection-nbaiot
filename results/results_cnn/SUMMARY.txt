@@ -1,0 +1,14 @@
+ATTENTION-RESIDUAL CNN - SUMMARY
+================================================================================
+
+Date: 2026-02-28 18:59:36
+Device: cpu
+Folds: 9
+Total time: 9502.82s (158.38 min)
+
+FINAL METRICS:
+----------------------------------------
+Accuracy:  0.8497
+Precision: 0.8314
+Recall:    0.8795
+F1-Score:  0.8473

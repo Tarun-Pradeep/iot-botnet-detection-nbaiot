@@ -1,0 +1,20 @@
+CNN - CLASSIFICATION REPORT
+================================================================================
+
+                precision    recall  f1-score   support
+
+        Benign       0.73      0.98      0.84    555932
+     Mirai_ACK       0.98      0.90      0.94    515156
+     Mirai_SYN       0.96      0.93      0.94    261789
+     Mirai_UDP       0.99      1.00      1.00    255111
+Mirai_UDPPlain       0.04      0.00      0.00    859850
+    Mirai_Scan       0.52      0.89      0.66    946366
+  Gafgyt_Combo       1.00      1.00      1.00    643821
+   Gafgyt_Junk       1.00      1.00      1.00    537979
+   Gafgyt_Scan       0.94      1.00      0.97    733299
+    Gafgyt_TCP       0.99      1.00      1.00   1229999
+    Gafgyt_UDP       0.99      0.99      0.99    523304
+
+      accuracy                           0.85   7062606
+     macro avg       0.83      0.88      0.85   7062606
+  weighted avg       0.79      0.85      0.81   7062606

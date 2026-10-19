@@ -1,0 +1,20 @@
+RANDOM FOREST - CLASSIFICATION REPORT
+================================================================================
+
+                precision    recall  f1-score   support
+
+        Benign       1.00      0.99      0.99    555932
+     Mirai_ACK       1.00      0.97      0.98    515156
+     Mirai_SYN       0.94      1.00      0.97    261789
+     Mirai_UDP       0.99      1.00      0.99    255111
+Mirai_UDPPlain       0.47      0.88      0.61    859850
+    Mirai_Scan       0.50      0.11      0.18    946366
+  Gafgyt_Combo       1.00      1.00      1.00    643821
+   Gafgyt_Junk       1.00      1.00      1.00    537979
+   Gafgyt_Scan       1.00      1.00      1.00    733299
+    Gafgyt_TCP       1.00      0.99      1.00   1229999
+    Gafgyt_UDP       0.99      1.00      0.99    523304
+
+      accuracy                           0.86   7062606
+     macro avg       0.90      0.90      0.88   7062606
+  weighted avg       0.86      0.86      0.84   7062606

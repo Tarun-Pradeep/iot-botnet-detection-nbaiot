@@ -1,0 +1,20 @@
+LOGISTIC REGRESSION - CLASSIFICATION REPORT
+================================================================================
+
+                precision    recall  f1-score   support
+
+        Benign       0.96      0.92      0.94    464682
+     Mirai_ACK       0.78      0.69      0.73    403473
+     Mirai_SYN       0.51      0.64      0.57    203687
+     Mirai_UDP       0.99      1.00      0.99    199293
+Mirai_UDPPlain       0.45      0.14      0.21    660531
+    Mirai_Scan       0.52      0.86      0.64    731816
+  Gafgyt_Combo       0.80      0.82      0.81    643821
+   Gafgyt_Junk       0.96      1.00      0.98    537979
+   Gafgyt_Scan       0.99      0.95      0.97    733299
+    Gafgyt_TCP       0.87      0.71      0.78   1229999
+    Gafgyt_UDP       0.40      0.56      0.47    523304
+
+      accuracy                           0.74   6331884
+     macro avg       0.75      0.75      0.74   6331884
+  weighted avg       0.75      0.74      0.73   6331884

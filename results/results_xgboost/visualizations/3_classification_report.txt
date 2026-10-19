@@ -1,0 +1,20 @@
+XGBoost - CLASSIFICATION REPORT
+================================================================================
+
+                precision    recall  f1-score   support
+
+        Benign       1.00      0.99      0.99    555932
+     Mirai_ACK       1.00      1.00      1.00    515156
+     Mirai_SYN       0.99      1.00      0.99    261789
+     Mirai_UDP       1.00      1.00      1.00    255111
+Mirai_UDPPlain       0.47      0.44      0.45    859850
+    Mirai_Scan       0.52      0.56      0.54    946366
+  Gafgyt_Combo       1.00      1.00      1.00    643821
+   Gafgyt_Junk       1.00      1.00      1.00    537979
+   Gafgyt_Scan       1.00      1.00      1.00    733299
+    Gafgyt_TCP       1.00      0.99      1.00   1229999
+    Gafgyt_UDP       0.98      1.00      0.99    523304
+
+      accuracy                           0.87   7062606
+     macro avg       0.90      0.91      0.91   7062606
+  weighted avg       0.87      0.87      0.87   7062606
