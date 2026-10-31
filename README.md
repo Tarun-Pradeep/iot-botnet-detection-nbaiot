@@ -77,8 +77,26 @@ Paths can be overridden with the `NBAIOT_DATA`, `NBAIOT_PREPROCESSED` and `NBAIO
 ## Related
 
 - Live demo dashboard: https://github.com/Tarun-Pradeep/iot-botnet-msa-cnn-dashboard
-- Research presented orally at an IEEE conference (Jul 2026).
+- Published paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/11742122) (CLICK 2026)
+
+## Publication
+
+> V. Ceronmani Sharmila, T. Pradeep, V. Suresh Kumar and C. R. Akash Preetham, "IoT Botnet Detection Using a Multi-Scale Attention CNN: A Scalable Framework for Multi-Class Botnet Traffic Classification," *2026 Conference on Latest Innovations in Computing and Knowledge (CLICK)*, Chennai, India, 2026, pp. 1–8, doi: [10.1109/CLICK68749.2026.11742122](https://doi.org/10.1109/CLICK68749.2026.11742122).
+
+Read it on [IEEE Xplore](https://ieeexplore.ieee.org/document/11742122). Selected for oral presentation.
+
+```bibtex
+@inproceedings{sharmila2026iotbotnet,
+  author    = {Ceronmani Sharmila, V. and Pradeep, Tarun and Suresh Kumar, Varun and Akash Preetham, C. R.},
+  title     = {IoT Botnet Detection Using a Multi-Scale Attention CNN: A Scalable Framework for Multi-Class Botnet Traffic Classification},
+  booktitle = {2026 Conference on Latest Innovations in Computing and Knowledge (CLICK)},
+  address   = {Chennai, India},
+  year      = {2026},
+  pages     = {1--8},
+  doi       = {10.1109/CLICK68749.2026.11742122}
+}
+```
 
 ## Authors
 
-Tarun Pradeep, Varun Suresh Kumar — supervised by Dr. Ceronmani Sharmila V
+V. Ceronmani Sharmila (supervisor), Tarun Pradeep, Varun Suresh Kumar, C. R. Akash Preetham
